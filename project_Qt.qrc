@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Sell">
+    <file>Продажа.jpeg</file>
+  </qresource>
+  <qresource prefix="Buy">
+    <file>Покупка.jpeg</file>
+  </qresource>
+</RCC>
